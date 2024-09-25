@@ -1,6 +1,0 @@
-Redirect to:Highwayman (disambiguation)
-From an ambiguous term: This is a redirect from an ambiguous page name to a page or list that disambiguates it. These redirects are pointed to by links that should always be disambiguated.  Therefore, this template should never appear on a page that has "(disambiguation)" in its title – in that case use {{R to disambiguation page}} instead.
-
-
-
-
