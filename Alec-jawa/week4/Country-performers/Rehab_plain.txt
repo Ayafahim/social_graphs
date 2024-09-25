@@ -1,0 +1,13 @@
+Redirect to:Rehabilitation
+From an abbreviation: This is a redirect from an abbreviation to a related topic, such as the expansion of the abbreviation. Use this template for any length reduction other than the following.
+Instead of this template:
+use {{R from acronym}} for abbreviations that are pronounced as words, such as NATO and RADAR;
+use {{R from initialism}} for those abbreviations that are pronounced as letters, such as CIA and HIV;
+use {{R from short name}} for the initials of a person's name or for any other length reduction that is not typically classed as an abbreviation.
+
+
+From an ambiguous term: This is a redirect from an ambiguous page name to a page or list that disambiguates it. These redirects are pointed to by links that should always be disambiguated.  Therefore, this template should never appear on a page that has "(disambiguation)" in its title – in that case use {{R to disambiguation page}} instead.
+
+
+
+

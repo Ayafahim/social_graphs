@@ -1,0 +1,15 @@
+Redirect to:Flatt and ScruggsThis page is a redirect. The following categories are used to track and monitor this redirect:
+
+From a page move: This is a redirect from a page that has been moved (renamed). This page was kept as a redirect to avoid breaking links, both internal and external, that may have been made to the old page name.
+
+
+From a subtopic: This is a redirect from a subtopic of the target article or section.
+If the redirected subtopic could potentially have its own article in the future, then also tag the redirect with {{R with possibilities}} and {{R printworthy}}.
+
+
+From a printworthy page title: This is a redirect from a title that would be helpful in a printed or CD/DVD version of Wikipedia. See Wikipedia:Printability and Version 1.0 Editorial Team for more information.
+
+When appropriate, protection levels are automatically sensed, described and categorized.
+
+
+

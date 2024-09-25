@@ -1,0 +1,10 @@
+Redirect to:Christopher Gaffney
+From an ambiguous term: This is a redirect from an ambiguous page name to a page or list that disambiguates it. These redirects are pointed to by links that should always be disambiguated.  Therefore, this template should never appear on a page that has "(disambiguation)" in its title – in that case use {{R to disambiguation page}} instead.
+
+
+From a short name: This is a redirect from a title that is a shortened form of a more complete page title, such as a person's full name or the unbroken title of a written work.
+Use this rcat (not {{R from initialism}} nor {{R from abbreviation}}) to tag redirects that are the initials of a person's name.
+
+
+
+
