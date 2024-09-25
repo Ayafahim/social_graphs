@@ -1,9 +1,0 @@
-Redirect to:Ben Hoffman
-From a merge: This is a redirect from a page that was merged into another page. This redirect was kept in order to preserve the edit history of this page after its content was merged into the content of the target page.  Please do not remove the tag that generates this text (unless the need to recreate content on this page has been demonstrated) or delete this page.
-For redirects with substantive page histories that did not result from page merges use {{R with history}} instead.
-
-
-
-
-
-
