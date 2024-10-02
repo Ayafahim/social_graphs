@@ -2,3 +2,5 @@ numpy
 jupyter
 matplotlib
 beautifulsoup4
+fa2_modified
+pickle
